@@ -4,7 +4,7 @@
   <title><![CDATA[I AM ETHAN]]></title>
   <link href="https://bigv027.github.io/atom.xml" rel="self"/>
   <link href="https://bigv027.github.io/"/>
-  <updated>2017-05-27T16:41:40+08:00</updated>
+  <updated>2017-05-27T16:50:28+08:00</updated>
   <id>https://bigv027.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -63,6 +63,64 @@
 <li><p>智识分子</p></li>
 </ul></li>
 </ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[小系统：日清及周总结 V2.160828]]></title>
+    <link href="https://bigv027.github.io/14958549917664.html"/>
+    <updated>2017-05-27T11:16:31+08:00</updated>
+    <id>https://bigv027.github.io/14958549917664.html</id>
+    <content type="html"><![CDATA[
+<p>每周日早上晚针对上一周的工作和学习进行一次清空和梳理.形成经验总结和未来的行动计划.</p>
+
+<h2 id="toc_0">日清流程</h2>
+
+<ul>
+<li>清空大脑，放入收集箱</li>
+<li>清空各收集箱
+
+<ul>
+<li>便签/笔记/方片/提醒/....</li>
+<li>清空RSS和归档邮件</li>
+</ul></li>
+</ul>
+
+<p>注意:<br/>
+ - 2分钟能处理完的尽快处理。<br/>
+ - 项目型的分解任务为多个小任务，用if/then心法,写下场景时间和困难，放入提醒事项。</p>
+
+<h2 id="toc_1">周总结流程</h2>
+
+<h3 id="toc_2">时间及注意力统计</h3>
+
+<ul>
+<li>打开be focused pro分析番茄钟数量.</li>
+<li>统计看完的书/影数量。</li>
+<li>统计输出的日记/笔记数量。</li>
+</ul>
+
+<h3 id="toc_3">日更笔记复习</h3>
+
+<ul>
+<li>重点是愚事录回顾</li>
+<li>用用if/then心法，形成正确的反馈和行动路径，另外生成经验/流程文档</li>
+</ul>
+
+<h3 id="toc_4">下周MIT制定。</h3>
+
+<ul>
+<li>尽量完成一个主题.</li>
+<li>说清楚实现路径,预见每一个困难.</li>
+</ul>
+
+<p>注意:<br/>
+- 对照提醒事项行动起来,避免低品质勤奋.</p>
+
+<p>151207初版<br/>
+160809v2：重写<br/>
+160828 修改格式,修正时间统计工具</p>
 
 ]]></content>
   </entry>
