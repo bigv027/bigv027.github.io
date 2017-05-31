@@ -4,7 +4,7 @@
   <title><![CDATA[学习成长再生]]></title>
   <link href="https://bigv027.github.io/atom.xml" rel="self"/>
   <link href="https://bigv027.github.io/"/>
-  <updated>2017-05-30T08:12:53+08:00</updated>
+  <updated>2017-05-30T08:14:08+08:00</updated>
   <id>https://bigv027.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,60 +13,64 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[反思日记及周期总结 V3.170530]]></title>
-    <link href="https://bigv027.github.io/riqing.html"/>
+    <title type="html"><![CDATA[反思日记及周期总结 V170531]]></title>
+    <link href="https://bigv027.github.io/fansi.html"/>
     <updated>2017-05-27T11:16:31+08:00</updated>
-    <id>https://bigv027.github.io/riqing.html</id>
+    <id>https://bigv027.github.io/fansi.html</id>
     <content type="html"><![CDATA[
 <p>每天、每周日、每月最后一周日的早上，针对昨天、这一周、这一月的工作和学习进行一次深度整理。</p>
 
 <h2 id="toc_0">反思日记</h2>
 
+<blockquote>
+<p>反思流程：坚持每天按照这个标准，对照我的行为！</p>
+</blockquote>
+
 <ul>
-<li>每日精进： 昨天我做得不好的事情是什么？我当时是怎么考虑的？如果我重新来做会有哪些改进？坚持每天按照这个标准，对照我的行为！</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 昨天我做得不好的事情是什么？反思自己的思路和思考结果，琢磨有没有逻辑谬误？
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 我当时是怎么考虑的？想法从何而来？缘何走了这个思路？自己受到了哪些因素影响？这些因素究竟有没有根基，道理？
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 有没有其他可能的思考结果？如果我重新来做会有哪些改进？
+</li>
 </ul>
 
 <span id="more"></span><!-- more -->
 
-<ul>
-<li>每天反思自己的思路和思考结果，琢磨有没有逻辑谬误？想法从何而来？缘何走了这个思路？有没有其他可能的思考结果？自己受到了哪些因素影响？这些因素究竟有没有根基，道理？</li>
-</ul>
-
 <h2 id="toc_1">周/月总结</h2>
 
-<ul>
-<li>注意力及输出统计——番茄钟数量、卡片输出数量</li>
-<li><p>MIT、行动卡的执行情况</p>
+<blockquote>
+<p>总结流程：周期性按照这个标准，总结宝贵经验</p>
+</blockquote>
 
-<p>1.本周或本月的目标与期望是什么？<br/>
-2.实际情况如何，比预期好还是不好？<br/>
-3.为什么？</p>
+<ul>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 注意力及输出统计——番茄钟数量、卡片输出数量
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 本周或本月的目标与期望是什么？
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 实际情况如何，比预期好还是不好？
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 为什么？
 
 <ul>
 <li>做得好的原因是什么？做得不好的原因是什么？（当时我的假设是什么？）</li>
 <li>如果现在重新做，将会如何执行？新的假设有什么不一样？</li>
 <li>跨领域经验”的类比与借鉴：思考自己遇到的问题可能与其他领域的哪些问题相类似，他们用了什么解决思路和方法？他们的假设是什么？这个假设的原理是什么？对我认识问题的方式有什么借鉴？</li>
 </ul>
-
-<p>4.总结经验。</p>
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 总结经验。
 
 <ul>
 <li>有效的假设，是在什么样的前提下有效的？我未来一定要记得避免不考虑条件地乱用这次有效的经验。</li>
 <li>哪些假设这次验证是错误的？哪些行为是未来要坚决避免的？</li>
-<li>哪些假设是这次想到或者借鉴的，接下来要尝试应用的？</li>
+<li>哪些假设是这次想到或者借鉴的，接下来要尝试应用的<br/></li>
 </ul>
-
-<p>5.将本月的新启发、新方法、新认识、新问题集中汇总起来。</p></li>
-<li><p>下周MIT制定——执行意图：预见可能的困难</p></li>
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 将本月的新启发、新方法、新认识、新问题集中汇总起来。
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 下周MIT制定——执行意图：预见可能的困难
+</li>
 </ul>
-
-<p>ChangeLog:<br/>
-151207初版。<br/>
-160809重写。<br/>
-160828修改格式,修正时间统计工具。<br/>
-170527精减，只提供框架，方便更好的反思；去除不科学的GTD方法，注重作品和践行。<br/>
-170529受成甲反思日记启发结合李笑来反思提高元认知能力，改日清流程为反思日记。<br/>
-170530更新详细的周期的模版</p>
 
 ]]></content>
   </entry>
@@ -205,6 +209,47 @@
 <li>行动：每天都思考一下，今天自己哪些事情做得非常好，并且夸夸自己，给自己一些鼓励，让自己可以继续保持下去。</li>
 <li>理解：没有人比你自己更清楚你所克服的困难，以及你真正付出的努力。所以也没有人比你更适合去鼓励你，安慰你。
 所以除了每天的反省之外，大家也不要忘记每天也要鼓励一下自己。</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[作息]]></title>
+    <link href="https://bigv027.github.io/zuoxi.html"/>
+    <updated>2017-05-21T12:14:33+08:00</updated>
+    <id>https://bigv027.github.io/zuoxi.html</id>
+    <content type="html"><![CDATA[
+<ul>
+<li>醒后冥想</li>
+<li>早上英语🍅x2</li>
+<li>早餐</li>
+</ul>
+
+<hr/>
+
+<ul>
+<li>通勤</li>
+<li>MIT上 🍅x4</li>
+<li>MIT下 🍅x2</li>
+</ul>
+
+<hr/>
+
+<ul>
+<li>午餐/冥想</li>
+<li>下午段上 🍅x4</li>
+<li>下午段下 🍅x2</li>
+<li>通勤</li>
+</ul>
+
+<hr/>
+
+<ul>
+<li>运动1小时</li>
+<li>晚餐/散步</li>
+<li>晚上练习 🍅x2</li>
+<li>睡前刷牙/冥想</li>
 </ul>
 
 ]]></content>
@@ -703,59 +748,6 @@ p 是赢的概率……</li>
 </ul>
 
 <h3 id="toc_2">金句：“早”不是关键因素，但你不能永远不出发。</h3>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[WK26 我能赚得更多吗？（我们重新认识了贪婪和诱惑）]]></title>
-    <link href="https://bigv027.github.io/26.html"/>
-    <updated>2017-05-14T11:21:57+08:00</updated>
-    <id>https://bigv027.github.io/26.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">术语：贪婪</h3>
-
-<ul>
-<li>定义：就是想要原本并不属于自己的东西。</li>
-<li>理解：天主教教义里，有所谓的七宗罪，贪婪就是其中一个；然而，若是仔细看看剩下的六个，就会发现其实它们全都源自于贪婪：
-傲慢：是因为假装（或者假装到相信）自己拥有其实并不属于自己的种种高高在上的权利；
-嫉妒：是因为想要自己尚不具备的东西，却发现别人已经有了；
-愤怒：是因为自己不具备解决问题的能力，想要那能力却没有；
-怠惰：是因为明明要用劳动去交换，却想张口就来、伸手即得；
-暴食：这一条其实真的不算什么罪，除非吃的不是自己的东西；古时候算罪，是因为那时候物质真的很困乏，所以，“使劲多吃的那一部分”，其实是“从别人那里抢来的”，或者说，“不暴食的话，可能有机会让别人不饿死”……
-色欲：是因为“对方不配合的时候就不是属于自己的”，然而依然想要 —— 对方自愿配合，就算不上什么罪了。</li>
-<li>延伸：很多人的贪婪，来自于无知。当人们想要一个并不属于他们的东西的时候，那就是贪婪。可是，当他们那么做的时候，很可能他们并不知道那么做是贪婪，很可能他们并不知道那东西原本并不属于他们，他们理所当然地以为他们“原本就应该”拥有那东西……
-无知的贪婪”之所以可怕，就是因为，“在当时当刻”，自己是没办法知道的，甚至即便别人告诉自己了，也可能会因为自己当时当刻并不理解而继续保留那“无知的贪婪”。</li>
-</ul>
-
-<h3 id="toc_1">金句：股票市场短期是个投票机，长期是个称重机。</h3>
-
-<ul>
-<li>理解：第一次读到的时候，拍案叫绝！并且，突然之间因为这个类比而感到无比轻松：
-股票市场既然短期来看只不过是投票机，那就让别人投票就好了，反正投票者络绎不绝，根本就用不着我自己去投票，更用不着去反复投票…… 若股票市场长期来看是称重机，那称重这事儿也不用我干了，我需要做的只有一件事儿，去想尽一切办法去找到以后最重的那个“胖子”…… 找胖子很简单啊，就看谁“越吃越多”呗。</li>
-<li>出处：巴菲特的师父，格雷厄姆</li>
-</ul>
-
-<h3 id="toc_2">金句：买股票但不知道究竟买了什么，就如同手持火把穿过一个炸药工厂，你可能活下来，但是你仍然是个傻子。</h3>
-
-<ul>
-<li>出处：格林布雷</li>
-</ul>
-
-<h3 id="toc_3">术语：诱惑</h3>
-
-<ul>
-<li>理解：一切不属于“长期价值”的东西，都可以算作是“诱惑”</li>
-</ul>
-
-<h3 id="toc_4">金句：你要追求的是 “至少长期年化复合增长 15 % 的目标”。</h3>
-
-<ul>
-<li>金句：我必须确保买到的是长期至少获得15%复合年化收益率的股票。</li>
-<li>出处：巴菲特</li>
-</ul>
-
-<h3 id="toc_5">金句：“财富自由”是个实在的目标，不愁吃不愁穿，不用再为了生活而出售时间之后，你可以做很多原本你没机会、没能力做的事情 —— 那才是自由的滋味。</h3>
 
 ]]></content>
   </entry>
