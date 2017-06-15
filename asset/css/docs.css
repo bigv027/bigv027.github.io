@@ -217,6 +217,7 @@ padding: 8px 0px; margin: 0;
 
 .markdown-body strong {
   font-weight: bold;
+  color: #558B2F;
 }
 
 .markdown-body h1 {
@@ -285,7 +286,7 @@ padding: 8px 0px; margin: 0;
 }
 
 .markdown-body a {
-  color: #4183c4;
+  color: #7CB342;
   text-decoration: none;
 }
 
@@ -328,19 +329,23 @@ padding: 8px 0px; margin: 0;
 }
 
 .markdown-body h1 {
-  font-size: 30px;
+  font-size: 25px;
+  color: #558B2F
 }
 
 .markdown-body h2 {
   font-size: 21px;
+  color: #558B2F
 }
 
 .markdown-body h3 {
   font-size: 16px;
+  color: #558B2F
 }
 
 .markdown-body h4 {
   font-size: 14px;
+  color: #558B2F
 }
 
 .markdown-body h5 {
@@ -562,7 +567,7 @@ font-family: "PT Sans", "SF UI Display", ".PingFang SC","PingFang SC", "Neue Haa
 .markdown-body blockquote {
   padding: 0 15px;
   color: #777;
-  border-left: 4px solid #ddd;
+  border-left: 4px solid #9CCC65;
 }
 
 .markdown-body blockquote>:first-child {
