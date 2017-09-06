@@ -6,7 +6,6 @@ layout: page
 > - **学习如何学习，继而加速学习**
 >- **成长成成长型选手，继而不断成长**
 >- **reborn，reborn and reborn**
-
 > ——大胜Ethan
 
 这是一个学识智慧积累和加速变现的时代。积累强大的实力即使连最坏的运气也无法耐你何。
@@ -28,7 +27,7 @@ layout: page
 
 >答案：有效地阅读且写出最好的实践证明就是读书的最小行动。
 
-关注：[大胜豆瓣读书](https://www.douban.com/people/dasheng027/)
+关注： [豆瓣读书](https://www.douban.com/people/dasheng027/)
 
 
 
