@@ -295,7 +295,7 @@ sidebar:
 # ---------------------------------------------------------------
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 # Automatically saving scroll position on each post/page in cookies.
 save_scroll: false
@@ -307,7 +307,7 @@ excerpt_description: true
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: true
-  length: 150
+  length: 128
 
 # Post meta display settings
 post_meta:
@@ -382,7 +382,7 @@ baidu_analytics: c64b9d23ca026e6f32fbdd1caf198841
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: bigv027
   count: true
   # hide comments (visitors need to click to load the comments)

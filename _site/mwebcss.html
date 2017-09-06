@@ -111,17 +111,17 @@
 
 
 
-<meta name="description" content="2017-06-16 修改css代码">
+<meta name="description" content="修改mweb的css预览为github green模式，提高了卡片和博客观感。 开始在mac上修改时找不到原版mweb-github代码，结果在ios端找到了。很轻松修改颜色代码。期间还参考了李笑来的good material design，不是特别满意。果断在默认的github主题修改成自己喜欢的green模式。从标题到黑体到链接都逐级修改成了各种绿。 修改的关键点在：">
 <meta name="keywords" content="Jekyll, NexT">
 <meta property="og:type" content="article">
 <meta property="og:title" content="2017-06-16 修改css代码">
 <meta property="og:url" content="http://localhost:4000/mwebcss.html">
 <meta property="og:site_name" content="学习成长再生">
-<meta property="og:description" content="2017-06-16 修改css代码">
+<meta property="og:description" content="修改mweb的css预览为github green模式，提高了卡片和博客观感。 开始在mac上修改时找不到原版mweb-github代码，结果在ios端找到了。很轻松修改颜色代码。期间还参考了李笑来的good material design，不是特别满意。果断在默认的github主题修改成自己喜欢的green模式。从标题到黑体到链接都逐级修改成了各种绿。 修改的关键点在：">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="2017-06-16 修改css代码">
-<meta name="twitter:description" content="2017-06-16 修改css代码">
+<meta name="twitter:description" content="修改mweb的css预览为github green模式，提高了卡片和博客观感。 开始在mac上修改时找不到原版mweb-github代码，结果在ios端找到了。很轻松修改颜色代码。期间还参考了李笑来的good material design，不是特别满意。果断在默认的github主题修改成自己喜欢的green模式。从标题到黑体到链接都逐级修改成了各种绿。 修改的关键点在：">
 
 
 <script type="text/javascript" id="hexo.configurations">
@@ -407,17 +407,6 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/mwebcss.html#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="/mwebcss.html" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
@@ -445,34 +434,33 @@
       
 
       
-        <h1 id="2017-06-16-修改css代码">2017-06-16 修改css代码</h1>
-
-<p>修改mweb的css预览为github green模式，提高了卡片和博客观感。
+        <p>修改mweb的css预览为github green模式，提高了卡片和博客观感。
 开始在mac上修改时找不到原版mweb-github代码，结果在ios端找到了。很轻松修改颜色代码。期间还参考了李笑来的good material design，不是特别满意。果断在默认的github主题修改成自己喜欢的green模式。从标题到黑体到链接都逐级修改成了各种绿。
 修改的关键点在：</p>
 
-<p>```.markdown-body a {
-  color: #7CB342;/<em>#4183c4;</em>/
-  text-decoration: underline; /<em>none;</em>/
-}</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>.markdown-body a {
+  color: #7CB342;/*#4183c4;*/
+  text-decoration: underline; /*none;*/
+}
 
-<p>.markdown-body strong {
+.markdown-body strong {
   font-weight: bold;
   color: #558B2F;
-}</p>
+}
 
-<p>.markdown-body h1 {
+.markdown-body h1 {
   font-size: 25px;
   color: #558B2F
-}</p>
+}
 
-<p>.markdown-body blockquote {
+.markdown-body blockquote {
   padding: 0 15px;
   color: #777;
   border-left: 4px solid #9CCC65;
-}</p>
+}
 
-<p>```</p>
+</code></pre>
+</div>
 
 <p>放弃手机端多看阅读app。
 想在手机上看书的时候，发现决策混乱了，不知道是多看还是ibooks。不想放弃多看是因为自己花钱买过几本电子书，排版都不错，只是觉得放弃可惜。认真想想其实我已经有了epub格式或者实体，虽然排版比不上，但又不是收集艺术品，其实不影响阅读就行。
@@ -560,13 +548,6 @@
           
   <div class="comments" id="comments">
     
-      <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript>
-      </div>
-    
   </div>
 
 
@@ -596,17 +577,8 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            Table of Contents
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview">
-            Overview
-          </li>
-        </ul>
-      
 
-      <section class="site-overview sidebar-panel">
+      <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/assets/images/ethan.jpeg"
@@ -703,31 +675,6 @@
 
       </section>
 
-      
-      <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-            
-            
-            
-
-
-
-
-
-            
-              <div class="post-toc-content">
-    <ol class=nav>
-      <li class="nav-item nav-level-1"> <a class="nav-link" href="#2017-06-16-修改css代码"> <span class="nav-number">1</span> <span class="nav-text">2017-06-16 修改css代码</span> </a> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child"> <ol class="nav-child">
-    </ol>
-  </div>
-            
-
-          </div>
-        </section>
-      <!--/noindex-->
       
 
       
@@ -887,28 +834,6 @@
 
   
 
-    
-      <script id="dsq-count-scr" src="https://bigv027.disqus.com/count.js" async></script>
-    
-
-    
-      
-      <script type="text/javascript">
-          var disqus_config = function () {
-              this.page.url = 'http://localhost:4000/mwebcss.html';
-              this.page.identifier = '/mwebcss.html';
-              this.page.title = '2017-06-16 修改css代码';
-          };
-          var d = document, s = d.createElement('script');
-          s.src = 'https://bigv027.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', '' + +new Date());
-          (d.head || d.body).appendChild(s);
-      </script>
-      
-    
-
-  
-
 
 
 
@@ -928,6 +853,10 @@
 
 
 
+
+  
+
+    
 
   
 
