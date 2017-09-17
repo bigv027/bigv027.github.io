@@ -156,7 +156,7 @@ h6 { font-size: 12px; }
 p { margin: 0 0 25px 0; }
 
 a { color: #555; text-decoration: none; border-bottom: 1px solid #999; word-wrap: break-word; }
-a:hover { color: #222; border-bottom-color: #222; }
+a:hover { color: #222; border-bottom-color: #558B2F; }
 
 blockquote { margin: 0; padding: 0; }
 
@@ -459,7 +459,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .posts-expand .post-title { font-size: 26px; text-align: center; word-break: break-word; font-weight: 400; }
 @media (max-width: 767px) { .posts-expand .post-title { font-size: 22px; } }
 
-.posts-expand .post-title-link { display: inline-block; position: relative; color: #555; border-bottom: none; line-height: 1.2; vertical-align: top; }
+.posts-expand .post-title-link { display: inline-block; position: relative; color: #558B2F; border-bottom: none; line-height: 1.2; vertical-align: top; }
 .posts-expand .post-title-link::before { content: ""; position: absolute; width: 100%; height: 2px; bottom: 0; left: 0; background-color: #000; visibility: hidden; -webkit-transform: scaleX(0); -moz-transform: scaleX(0); -ms-transform: scaleX(0); -o-transform: scaleX(0); transform: scaleX(0); transition-duration: 0.2s; transition-timing-function: ease-in-out; transition-delay: 0s; }
 .posts-expand .post-title-link:hover::before { visibility: visible; -webkit-transform: scaleX(1); -moz-transform: scaleX(1); -ms-transform: scaleX(1); -o-transform: scaleX(1); transform: scaleX(1); }
 .posts-expand .post-title-link .fa { font-size: 16px; }
@@ -559,7 +559,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #555; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff0045; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #61ff00; }
 
 .links-of-blogroll { font-size: 13px; }
 
@@ -572,14 +572,14 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .sidebar-nav { margin: 0 0 20px; padding-left: 0; }
 
 .sidebar-nav li { display: inline-block; cursor: pointer; border-bottom: 1px solid transparent; font-size: 14px; color: #555; }
-.sidebar-nav li:hover { color: #fc6423; }
+.sidebar-nav li:hover { color: #558B2F; }
 
 .page-post-detail .sidebar-nav-toc { padding: 0 5px; }
 
 .page-post-detail .sidebar-nav-overview { margin-left: 10px; }
 
-.sidebar-nav .sidebar-nav-active { color: #fc6423; border-bottom-color: #fc6423; }
-.sidebar-nav .sidebar-nav-active:hover { color: #fc6423; }
+.sidebar-nav .sidebar-nav-active { color: #558B2F; border-bottom-color: #558B2F; }
+.sidebar-nav .sidebar-nav-active:hover { color: #558B2F; }
 
 .sidebar-panel { display: none; }
 
@@ -605,10 +605,10 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .post-toc .nav .active-current > .nav-child { display: block; }
 .post-toc .nav .active-current > .nav-child > .nav-item { display: block; }
 
-.post-toc .nav .active > a { color: #fc6423; border-bottom-color: #fc6423; }
+.post-toc .nav .active > a { color: #558B2F; border-bottom-color: #558B2F; }
 
-.post-toc .nav .active-current > a { color: #fc6423; }
-.post-toc .nav .active-current > a:hover { color: #fc6423; }
+.post-toc .nav .active-current > a { color: #558B2F; }
+.post-toc .nav .active-current > a:hover { color: #558B2F; }
 
 .footer { font-size: 14px; color: #999; }
 .footer img { border: none; }
@@ -775,7 +775,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 #schedule ul#event-list li.event-now h2.event-summary:before { -webkit-transform: scale(1.2); -moz-transform: scale(1.2); -ms-transform: scale(1.2); -o-transform: scale(1.2); transform: scale(1.2); color: #FFF; animation: dot-flash 1s alternate infinite ease-in-out; }
 #schedule ul#event-list li.event-now * { color: #FFF !important; }
 
-.page-post-detail .sidebar-toggle-line { background: #fc6423; }
+.page-post-detail .sidebar-toggle-line { background: #558B2F; }
 .page-post-detail .comments { overflow: hidden; }
 
 .header { position: relative; margin: 0 auto; width: 960px; }
