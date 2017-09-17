@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T14:35:40+08:00</updated><id>http://localhost:4000/</id><title type="html">学习成长再生</title><subtitle>持续学习者</subtitle><author><name>何胜军Ethan</name></author><entry><title type="html">2017-08-16 赶进度</title><link href="http://localhost:4000/CathchOnTheSchedule.html" rel="alternate" type="text/html" title="2017-08-16 赶进度" /><published>2017-08-16T00:00:00+08:00</published><updated>2017-08-16T00:00:00+08:00</updated><id>http://localhost:4000/CathchOnTheSchedule</id><content type="html" xml:base="http://localhost:4000/CathchOnTheSchedule.html">&lt;p&gt;7月份开始一直在赶通识部落的进度，因为阳老的一句，开智部落2.0的参与门槛对写卡片数量有要求。所以尽量在10月份到期之前补上每本书的卡片。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T16:38:24+08:00</updated><id>http://localhost:4000/</id><title type="html">学习成长再生</title><subtitle>持续学习者</subtitle><author><name>何胜军Ethan</name></author><entry><title type="html">2017-08-16 赶进度</title><link href="http://localhost:4000/CathchOnTheSchedule.html" rel="alternate" type="text/html" title="2017-08-16 赶进度" /><published>2017-08-16T00:00:00+08:00</published><updated>2017-08-16T00:00:00+08:00</updated><id>http://localhost:4000/CathchOnTheSchedule</id><content type="html" xml:base="http://localhost:4000/CathchOnTheSchedule.html">&lt;p&gt;7月份开始一直在赶通识部落的进度，因为阳老的一句，开智部落2.0的参与门槛对写卡片数量有要求。所以尽量在10月份到期之前补上每本书的卡片。&lt;/p&gt;
 
 &lt;p&gt;其实真的应该跟上大部队的进度，这样邮箱里面也会有存储大家的卡片，一是作为资料存储便于spotlight的检索，二是可以看到同侪的卡片思路，开脑洞。&lt;/p&gt;
 
@@ -15,7 +15,7 @@
 
 &lt;p&gt;必要难度理论用在写卡片上，到现在还没有贯彻实施。还是回去老一套直接摘录去了。需要逼迫自己一把了。强行只精读完一章，6小时后写一章的卡片。&lt;/p&gt;
 
-&lt;p&gt;mac更多的时候应该是输出检索工具。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">7月份开始一直在赶通识部落的进度，因为阳老的一句，开智部落2.0的参与门槛对写卡片数量有要求。所以尽量在10月份到期之前补上每本书的卡片。</summary></entry><entry><title type="html">小系统：文件和工具架构</title><link href="http://localhost:4000/softwareImprovement.html" rel="alternate" type="text/html" title="小系统：文件和工具架构" /><published>2017-07-28T00:00:00+08:00</published><updated>2017-07-28T00:00:00+08:00</updated><id>http://localhost:4000/softwareImprovement</id><content type="html" xml:base="http://localhost:4000/softwareImprovement.html">&lt;p&gt;今天终于把域名结构付诸了行动，同时理清了各个软件和文件的信息流及交互。&lt;/p&gt;
+&lt;p&gt;mac更多的时候应该是输出检索工具。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">7月份开始一直在赶通识部落的进度，因为阳老的一句，开智部落2.0的参与门槛对写卡片数量有要求。所以尽量在10月份到期之前补上每本书的卡片。</summary></entry><entry><title type="html">系统：文件和工具架构</title><link href="http://localhost:4000/softwareImprovement.html" rel="alternate" type="text/html" title="系统：文件和工具架构" /><published>2017-07-28T00:00:00+08:00</published><updated>2017-07-28T00:00:00+08:00</updated><id>http://localhost:4000/softwareImprovement</id><content type="html" xml:base="http://localhost:4000/softwareImprovement.html">&lt;p&gt;今天终于把域名结构付诸了行动，同时理清了各个软件和文件的信息流及交互。&lt;/p&gt;
 
 &lt;h2 id=&quot;1&quot;&gt;1&lt;/h2&gt;
 &lt;p&gt;文件架构是这样子的：
@@ -84,7 +84,7 @@
 
 &lt;p&gt;总拿对方没做的事，顾及不到的事，做的慢的事，没达到自己标准的事说，就真的是对自己太狠了。毕竟环境和人都太复杂了，我们不是太阳，也不是神人，真实世界中不可控因素太多太多了，我们都在其中互相影响，身不由己，结果不如自己的意就一顿牢骚和抱怨，顺带着影响自己和身边人的心情，可不是对自己太狠了吗？！所以这才有一种高手会利用激怒对方在高阶商战上，让对方情绪失控，整盘皆输。而我们凡人能做的只是尽力比昨天更理智而已。&lt;/p&gt;
 
-&lt;p&gt;顶多我们都是孩子的卫星，卫星和卫星间更像是互补，而不能抢占同一个位置。你碰一下我，我撞一下你，结果轨道突变，就撞上孩子了。（找不到好比喻，就用这个吧，囧）。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">有一种自洽是在自己推演的一套体系中完美循环，却置对方在永恒的错误中。 还有一种来源于正确的原则和科学的方法。</summary></entry><entry><title type="html">小系统：10个好的学习法则和10个坏的学习法则</title><link href="http://localhost:4000/10hao10huai.html" rel="alternate" type="text/html" title="小系统：10个好的学习法则和10个坏的学习法则" /><published>2017-06-28T00:00:00+08:00</published><updated>2017-06-28T00:00:00+08:00</updated><id>http://localhost:4000/10hao10huai</id><content type="html" xml:base="http://localhost:4000/10hao10huai.html">&lt;blockquote&gt;
+&lt;p&gt;顶多我们都是孩子的卫星，卫星和卫星间更像是互补，而不能抢占同一个位置。你碰一下我，我撞一下你，结果轨道突变，就撞上孩子了。（找不到好比喻，就用这个吧，囧）。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">有一种自洽是在自己推演的一套体系中完美循环，却置对方在永恒的错误中。 还有一种来源于正确的原则和科学的方法。</summary></entry><entry><title type="html">技巧：10个好的学习法则和10个坏的学习法则</title><link href="http://localhost:4000/10hao10huai.html" rel="alternate" type="text/html" title="技巧：10个好的学习法则和10个坏的学习法则" /><published>2017-06-28T00:00:00+08:00</published><updated>2017-06-28T00:00:00+08:00</updated><id>http://localhost:4000/10hao10huai</id><content type="html" xml:base="http://localhost:4000/10hao10huai.html">&lt;blockquote&gt;
   &lt;p&gt;这是专门打印出来给家族中的小朋友当作原则用的，希望他们学有所成。&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -180,9 +180,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：&lt;/p&
   &lt;p&gt;如果首道难题进展不顺，那就跳到下一道简单的题目，把它做出来，或能做多少是多少，之后接着做另一道看起来很难的题目，并努力取得一点点进展。一旦感到陷入了困境或停滞不前，就再换一道简单些的题目去做。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;出处：摘录来自: 芭芭拉·奥克利（Barbara Oakley）. “学习之道”。 iBooks.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">这是专门打印出来给家族中的小朋友当作原则用的，希望他们学有所成。 10个好的学习法则</summary></entry><entry><title type="html">2017-06-26 既然是“还债”，就慢慢还吧</title><link href="http://localhost:4000/huanzai.html" rel="alternate" type="text/html" title="2017-06-26 既然是“还债”，就慢慢还吧" /><published>2017-06-26T00:00:00+08:00</published><updated>2017-06-26T00:00:00+08:00</updated><id>http://localhost:4000/huanzai</id><content type="html" xml:base="http://localhost:4000/huanzai.html">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
+&lt;p&gt;摘录来自: 芭芭拉·奥克利（Barbara Oakley）. “学习之道”。 iBooks.&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">这是专门打印出来给家族中的小朋友当作原则用的，希望他们学有所成。 10个好的学习法则</summary></entry><entry><title type="html">2017-06-26 既然是“还债”，就慢慢还吧</title><link href="http://localhost:4000/huanzai.html" rel="alternate" type="text/html" title="2017-06-26 既然是“还债”，就慢慢还吧" /><published>2017-06-26T00:00:00+08:00</published><updated>2017-06-26T00:00:00+08:00</updated><id>http://localhost:4000/huanzai</id><content type="html" xml:base="http://localhost:4000/huanzai.html">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
 &lt;p&gt;生活中总是有那么多焦虑，有那么多想看的书，电影，想去的城市，一部分原因是因为短期维度上生活中没有那么多如学校时期能及时反馈的事情；还有一部分是因为年轻的时候该干的事情没有干，花那么多时间去发呆，那么多时间去玩游戏，那么多时间睡懒觉，而直接无视想看的书，想去的城市，想去探寻的可能的自我……从这个维度讲，就能把现在的状态当成是“还债”。既然是还，就慢慢还，别用短跑的方式去跑长跑。相信总会有还清的一天。&lt;/p&gt;
 
 &lt;h3 id=&quot;2&quot;&gt;2&lt;/h3&gt;
@@ -294,19 +292,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：&lt;/p&
   &lt;p&gt;纪录片对科学的作用并不在于让观众学到什么知识，而是激发观众对科学的兴趣。电影和电视是一种很好的激励手段，但不是好的教育手段。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;出处：《万万没想到:用理工科思维理解世界》&lt;/td&gt;
-          &lt;td&gt;万维刚「关于刻意练习的清单」&lt;/td&gt;
-          &lt;td&gt;阳志平「刻意练习」&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">总结下刻意练习的4个要点： 1.只在“学习区”练习；</summary></entry><entry><title type="html">小系统：满满家日常指南</title><link href="http://localhost:4000/FamilyRules.html" rel="alternate" type="text/html" title="小系统：满满家日常指南" /><published>2017-06-20T00:00:00+08:00</published><updated>2017-06-20T00:00:00+08:00</updated><id>http://localhost:4000/FamilyRules</id><content type="html" xml:base="http://localhost:4000/FamilyRules.html">&lt;blockquote&gt;
+&lt;p&gt;出处：《万万没想到:用理工科思维理解世界》；万维刚「关于刻意练习的清单」；阳志平「刻意练习」&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">总结下刻意练习的4个要点： 1.只在“学习区”练习；</summary></entry><entry><title type="html">系统：满满家日常指南</title><link href="http://localhost:4000/FamilyRules.html" rel="alternate" type="text/html" title="系统：满满家日常指南" /><published>2017-06-20T00:00:00+08:00</published><updated>2017-06-20T00:00:00+08:00</updated><id>http://localhost:4000/FamilyRules</id><content type="html" xml:base="http://localhost:4000/FamilyRules.html">&lt;blockquote&gt;
   &lt;p&gt;做对的事情，远比把事情做对重要。&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -519,7 +505,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：&lt;/p&
 
 &lt;p&gt;又回归到如何教育子女的问题上来了。还有大量的体系需要搭建。
 首先要做的是保证家庭的实力。让子女有更多的机会尝试和接触各种新事物。
-基因需要找到自己环境，才能发挥天赋。所以要有资金保障。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">看完了郝明义的「工作DNA」。获得的一个反常识是生涯规划应该从学生时代就开始，并且是越早越好的学生时代。他说 一个高中生、或者大学生，应该尽最大的努力，思考自己（而不是父母或任何其他人）十年后希望成为什么样的人，以及那样的人所工作的模式。然后，把所有的时间都投入到补充自己的知识养分，使自己越来越接近成为心中所期望那样的那种人。</summary></entry><entry><title type="html">小系统：我的Gallup优势识别</title><link href="http://localhost:4000/MyGallup.html" rel="alternate" type="text/html" title="小系统：我的Gallup优势识别" /><published>2017-06-10T00:00:00+08:00</published><updated>2017-06-10T00:00:00+08:00</updated><id>http://localhost:4000/MyGallup</id><content type="html" xml:base="http://localhost:4000/MyGallup.html">&lt;p&gt;&lt;strong&gt;Ethan He&lt;/strong&gt;&lt;/p&gt;
+基因需要找到自己环境，才能发挥天赋。所以要有资金保障。&lt;/p&gt;</content><author><name>何胜军Ethan</name></author><summary type="html">看完了郝明义的「工作DNA」。获得的一个反常识是生涯规划应该从学生时代就开始，并且是越早越好的学生时代。他说 一个高中生、或者大学生，应该尽最大的努力，思考自己（而不是父母或任何其他人）十年后希望成为什么样的人，以及那样的人所工作的模式。然后，把所有的时间都投入到补充自己的知识养分，使自己越来越接近成为心中所期望那样的那种人。</summary></entry><entry><title type="html">系统：我的Gallup优势识别</title><link href="http://localhost:4000/MyGallup.html" rel="alternate" type="text/html" title="系统：我的Gallup优势识别" /><published>2017-06-10T00:00:00+08:00</published><updated>2017-06-10T00:00:00+08:00</updated><id>http://localhost:4000/MyGallup</id><content type="html" xml:base="http://localhost:4000/MyGallup.html">&lt;p&gt;&lt;strong&gt;Ethan He&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;调查完成日期：11-12-2012&lt;/p&gt;
 

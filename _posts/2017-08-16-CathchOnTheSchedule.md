@@ -1,7 +1,7 @@
 ---
 title: 2017-08-16 赶进度
 categories:
-  - 随笔
+  - blog
 tags:
   - 
 ---

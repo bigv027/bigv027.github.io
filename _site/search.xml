@@ -26,7 +26,7 @@
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -36,7 +36,7 @@
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：文件和工具架构]]></title>
+      <title><![CDATA[系统：文件和工具架构]]></title>
       <url>/softwareImprovement.html</url>
       <content type="html"><![CDATA[<p>今天终于把域名结构付诸了行动，同时理清了各个软件和文件的信息流及交互。</p>
 
@@ -92,7 +92,7 @@
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -129,7 +129,7 @@
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -139,7 +139,7 @@
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：10个好的学习法则和10个坏的学习法则]]></title>
+      <title><![CDATA[技巧：10个好的学习法则和10个坏的学习法则]]></title>
       <url>/10hao10huai.html</url>
       <content type="html"><![CDATA[<blockquote>
   <p>这是专门打印出来给家族中的小朋友当作原则用的，希望他们学有所成。</p>
@@ -237,14 +237,12 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
   <p>如果首道难题进展不顺，那就跳到下一道简单的题目，把它做出来，或能做多少是多少，之后接着做另一道看起来很难的题目，并努力取得一点点进展。一旦感到陷入了困境或停滞不前，就再换一道简单些的题目去做。</p>
 </blockquote>
 
-<ul>
-  <li>出处：摘录来自: 芭芭拉·奥克利（Barbara Oakley）. “学习之道”。 iBooks.</li>
-</ul>
+<p>摘录来自: 芭芭拉·奥克利（Barbara Oakley）. “学习之道”。 iBooks.</p>
 
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -284,7 +282,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -385,24 +383,12 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
   <p>纪录片对科学的作用并不在于让观众学到什么知识，而是激发观众对科学的兴趣。电影和电视是一种很好的激励手段，但不是好的教育手段。</p>
 </blockquote>
 
-<ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>出处：《万万没想到:用理工科思维理解世界》</td>
-          <td>万维刚「关于刻意练习的清单」</td>
-          <td>阳志平「刻意练习」</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-</ul>
+<p>出处：《万万没想到:用理工科思维理解世界》；万维刚「关于刻意练习的清单」；阳志平「刻意练习」</p>
 
 ]]></content>
       <categories>
         
-          <category> 高阶模型 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -412,7 +398,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：满满家日常指南]]></title>
+      <title><![CDATA[系统：满满家日常指南]]></title>
       <url>/FamilyRules.html</url>
       <content type="html"><![CDATA[<blockquote>
   <p>做对的事情，远比把事情做对重要。</p>
@@ -559,7 +545,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -613,7 +599,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -666,7 +652,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -676,7 +662,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：我的Gallup优势识别]]></title>
+      <title><![CDATA[系统：我的Gallup优势识别]]></title>
       <url>/MyGallup.html</url>
       <content type="html"><![CDATA[<p><strong>Ethan He</strong></p>
 
@@ -755,7 +741,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -801,7 +787,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -833,7 +819,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -863,7 +849,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -873,7 +859,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：反思日记及周期总结]]></title>
+      <title><![CDATA[系统：反思日记及周期总结]]></title>
       <url>/SummarySys.html</url>
       <content type="html"><![CDATA[<p>每天、每周日、每月最后一周日的早上，针对昨天、这一周、这一月的工作和学习进行一次深度整理。</p>
 
@@ -929,7 +915,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -958,7 +944,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -1015,7 +1001,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -1025,7 +1011,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：作息]]></title>
+      <title><![CDATA[系统：作息]]></title>
       <url>/TimeTable.html</url>
       <content type="html"><![CDATA[<blockquote>
   <p>分成早、上午、下午、晚间四个时段，不指定具体时间，以番茄时间为最小行动。
@@ -1067,7 +1053,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -1130,18 +1116,16 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
   </li>
 </ol>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>changelog：
+<p>changelog：
 2017-09-11 增补修改
 2017-08-25 新增“源头”内容。
 2017-08-15 新增卡片类型及说明。
-2017-05-19 初版。
-</code></pre>
-</div>
+2017-05-19 初版。</p>
 
 ]]></content>
       <categories>
         
-          <category> 高阶模型 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -1224,7 +1208,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 随笔 </category>
+          <category> blog </category>
         
       </categories>
       <tags>
@@ -1317,57 +1301,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 读书笔记 </category>
-        
-      </categories>
-      <tags>
-        
-      </tags>
-      <tags></tags>
-    </entry>
-  
-    <entry>
-      <title><![CDATA[「机会只爱有准备的大脑」卡片集]]></title>
-      <url>/PreparedBrain.html</url>
-      <content type="html"><![CDATA[<h3 id="金句效率化不是提高做事的效率减少做事才是最能提高效率的">金句：效率化——不是提高做事的效率，减少做事才是最能提高效率的。</h3>
-<ul>
-  <li>理解：：每天完成MIT 3件。提高做重要事情的效率。</li>
-</ul>
-
-<h3 id="行动不做也不会造成麻烦的事尽量不要做">行动：不做也不会造成麻烦的事尽量不要做。</h3>
-<ul>
-  <li>理解：同上，优先完成最重要的事。</li>
-</ul>
-
-<h3 id="行动注意看不见的机会成本">行动：注意看不见的机会成本！</h3>
-<ul>
-  <li>理解：练习快速制定最优决策，时刻把注意力放在对自身成长有利的事情上。</li>
-</ul>
-
-<h3 id="行动培养对还没有发生可是马上要发生的事情的想象力">行动：培养对“还没有发生，可是马上要发生的事情的想象力”</h3>
-<ul>
-  <li>理解：坚持做好功课，对每一个行动步骤和细节了如指掌，并采用“事前验尸”原则。</li>
-</ul>
-
-<h3 id="金句坚定的自信就是舒服的自我表现">金句：坚定的自信就是舒服的自我表现！</h3>
-<ul>
-  <li>理解：严于律己，宽于律人；养成拿作品说话的习惯，慢慢积累自信和社会信任。</li>
-</ul>
-
-<h3 id="行动不打垮别人也不被别人打垮建立中长期的人际关系说出自己的真实想法建立和谐的关系">行动：不打垮别人，也不被别人打垮，建立中长期的人际关系，说出自己的真实想法，建立和谐的关系。</h3>
-<ul>
-  <li>理解：做有积累的事情，朴素笃定地践行自己方法论，同时做到舒服、真诚、和谐，才能建立中长期关系。</li>
-</ul>
-
-<h3 id="行动养成突破所有的制约条件找到自己能做到的事并认真思考集中精神作出决断取得成果的好习惯">行动：养成突破所有的制约条件，找到自己能做到的事，并认真思考，集中精神，作出决断，取得成果的好习惯。</h3>
-<ul>
-  <li>理解：这条是上面几点的综合，对重要事情做足功课，快速认真做出决策，拿出作品。</li>
-</ul>
-
-]]></content>
-      <categories>
-        
-          <category> 读书笔记 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -1465,12 +1399,10 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 读书笔记 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
-        
-          <tag> 说话 </tag>
         
       </tags>
       <tags></tags>
@@ -1524,7 +1456,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 高阶模型 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -1534,7 +1466,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：物品价值观]]></title>
+      <title><![CDATA[系统：物品价值观]]></title>
       <url>/valueitems.html</url>
       <content type="html"><![CDATA[<p>必须要有个对物品清晰的价值观，重在断舍离，形成用少而精的物品价值观。具体如下：</p>
 
@@ -1581,7 +1513,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
@@ -2501,7 +2433,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
 ]]></content>
       <categories>
         
-          <category> 读书笔记 </category>
+          <category> edu </category>
         
       </categories>
       <tags>
@@ -2511,7 +2443,7 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
     </entry>
   
     <entry>
-      <title><![CDATA[小系统：价值观排序]]></title>
+      <title><![CDATA[系统：价值观排序]]></title>
       <url>/values.html</url>
       <content type="html"><![CDATA[<p>1、健康活力</p>
 
@@ -2591,17 +2523,15 @@ A：先从难题入手，但是马上跳回简单题目。解释如下：</p>
   <li>1分钟内调整好负面情绪，就很有成就感。</li>
 </ul>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>changelog：
+<p>changelog：
 2017-07-30 增加「关注牛人」，「持续写作」内容。
 2015-12-07 增加「MIT」，「满意-完美」内容。
-2008-08-08 初版
-</code></pre>
-</div>
+2008-08-08 初版</p>
 
 ]]></content>
       <categories>
         
-          <category> 小系统 </category>
+          <category> sys </category>
         
       </categories>
       <tags>
