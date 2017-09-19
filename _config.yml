@@ -9,7 +9,7 @@ subtitle: 何胜军的博客
 description: 持续学习者
 author: 何胜军Ethan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -702,6 +702,10 @@ vendors:
 css: assets/css
 js: assets/js
 images: assets/images
+
+reward_comment: 捧个场？
+wechatpay: /assets/images/wechat-reward-image.JPG
+# alipay: /assets/images/alipay-reward-image.png
 
 # Theme version
 version: 5.1.1
