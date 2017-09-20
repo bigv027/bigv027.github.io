@@ -84,7 +84,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -102,10 +102,10 @@ copyright: true
 # Canonical, set a canonical link tag in your jekyll, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
-canonical: true
+canonical: false
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: true
+seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -217,8 +217,8 @@ social:
   #LinkLabel: Link
   #twitter: http://twitter.com/ishengjun
   Github: https://github.com/bigv027
-  Weibo: http://weibo.com/heshengjun
-  douban: https://www.douban.com/people/dasheng027/
+  微博: http://weibo.com/heshengjun
+  豆瓣: https://www.douban.com/people/dasheng027/
   email: mailto:2815966@qq.com
 
 # Social Links Icons
@@ -232,7 +232,8 @@ social_icons:
   #KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
+  微博: weibo
+  
 
 
 # Sidebar Avatar
@@ -580,7 +581,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: ture
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -600,7 +601,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
