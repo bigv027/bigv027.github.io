@@ -143,9 +143,6 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
 
-
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -202,9 +199,6 @@ font:
     family:
     size:
 
-
-
-
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
@@ -245,7 +239,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
@@ -600,7 +594,7 @@ pace: ture
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
@@ -703,8 +697,8 @@ css: assets/css
 js: assets/js
 images: assets/images
 
-reward_comment: 捧个场？
-wechatpay: /assets/images/wechat-reward-image.JPG
+#reward_comment: 捧个场？
+#wechatpay: /assets/images/wechat-reward-image.JPG
 # alipay: /assets/images/alipay-reward-image.png
 
 # Theme version
