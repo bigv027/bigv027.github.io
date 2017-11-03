@@ -1,2 +1,2 @@
 
-fork 自 http://simpleyyt.github.io/jekyll-theme-next
+fork 自 https://github.com/simpleyyt/jekyll-theme-next
