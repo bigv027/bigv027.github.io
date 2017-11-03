@@ -9,7 +9,6 @@ layout: page
 
 > 最便宜的自我修炼是阅读；最容易产生心流体验的娱乐是写作。富人用钱买心流，超一流作家用心流买青史留名。——出处：[写作十二问](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149824&idx=1&sn=b0f174f96967abf60e4f966a1456f43c&chksm=84f0b316b3873a00cdd5d0cb38d9b2cf4bebc7e52104ca1484050b12f00fedea45def9448a77&mpshare=1&scene=1&srcid=0825P6UayCCyETAkX9vfGT3p#rd)
 
-
 **博客期许**：
 先写10年，保持每周一篇节奏。
 
@@ -22,4 +21,5 @@ layout: page
 
 - 2017-11-03 修改
 - 2016-08-06 创建
+
 
