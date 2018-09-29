@@ -1,5 +1,5 @@
 ---
-title: 2017-06-03 时间管理原则
+title: 大胜的时间管理原则
 categories: 
 - blog
 ---

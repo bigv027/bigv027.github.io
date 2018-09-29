@@ -1,5 +1,5 @@
 ---
-title: 2017-10-29 成长，anytime，anywhere！
+title: 成长，anytime，anywhere！
 categories: 
 - blog
 ---

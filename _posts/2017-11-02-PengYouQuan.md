@@ -1,5 +1,5 @@
 ---
-title: 2017-11-02 朋友圈祭
+title: 朋友圈祭
 categories: 
 - blog
 ---
