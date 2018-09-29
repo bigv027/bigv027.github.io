@@ -7,7 +7,7 @@
 title: 学习成长再生
 subtitle: 何胜军的博客
 description: 持续学习者
-author: 何胜军Ethan
+author: 何胜军
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss: true
 
 # Specify the date when the site was setup
-since: 2015 备案号：42010502000964
+since: 2015 
 
 # icon between year and author @Footer
 authoricon: heart
