@@ -10,7 +10,7 @@ categories:
 
 什么叫「夜班理论」呢？本尼迪克特·凯里.的「如何学习」 中提到了这个睡眠结构图，若按照睡眠阶段来划分，**夜班模式**具体应该是这样的：
 
-![](http://7xs0kh.com1.z0.glb.clouddn.com/2017-10-09-15074458014231.jpg)
+![image](https://user-images.githubusercontent.com/16148316/46721326-4be88580-cca5-11e8-82ac-f2e0499c5343.png)
 
 我们可以利用各个阶段的特点对作息做针对性的调整。
 

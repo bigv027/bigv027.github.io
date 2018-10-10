@@ -8,7 +8,7 @@ categories:
 
 ## 1
 文件架构是这样子的：
-![Screen Shot 2017-07-28 at 19.58.01](http://7xs0kh.com1.z0.glb.clouddn.com/2017-07-28-Screen Shot 2017-07-28 at 19.58.01.png)
+![image](https://user-images.githubusercontent.com/16148316/46721082-c82e9900-cca4-11e8-8441-93673526d9c8.png)
 重点是：
 
 - book.heshengjun.com：一上来某个领域，就要想着写一本书。同步至gitbook，同时备份至云。
