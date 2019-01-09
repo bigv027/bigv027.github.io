@@ -697,9 +697,9 @@ css: assets/css
 js: assets/js
 images: assets/images
 
-#reward_comment: 捧个场？
-#wechatpay: /assets/images/wechat-reward-image.JPG
-# alipay: /assets/images/alipay-reward-image.png
+reward_comment: 捧个场？
+wechatpay: /assets/images/wechat-reward-image.JPG
+alipay: /assets/images/alipay-reward-image.png
 
 # Theme version
 version: 5.1.1
