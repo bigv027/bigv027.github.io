@@ -1,4 +1,3 @@
-
 ---
 title: 学习成长再生
 layout: page
