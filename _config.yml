@@ -16,6 +16,7 @@ date_format: '%Y-%m-%d'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
 baseurl:
+	
 #permalink: pretty
 permalink: /:title.html
 
@@ -33,7 +34,8 @@ paginate: 10
   #paginate_path: "/page:num/"
 
 # Handling Reading
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md"]
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
 #excerpt_separator: <!-- more -->
@@ -41,6 +43,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
 highlighter: rouge
+highlight:
+  line_number: true
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
@@ -66,8 +70,10 @@ feed:
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
+
 # jemoji conficts with toc in some no-ascii post
-# - jemoji
+
+ - jemoji
  - jekyll-sitemap
  - jekyll-feed
 
@@ -87,6 +93,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
+
 since: 2015 
 
 # icon between year and author @Footer
@@ -102,14 +109,18 @@ copyright: true
 # Canonical, set a canonical link tag in your jekyll, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
+
 canonical: false
+
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
+
 index_with_subtitle: true
+
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -207,6 +218,7 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
+
 social:
   #LinkLabel: Link
   #twitter: http://twitter.com/ishengjun
@@ -214,6 +226,7 @@ social:
   微博: http://weibo.com/heshengjun
   豆瓣: https://www.douban.com/people/dasheng027/
   email: mailto:2815966@qq.com
+
 
 # Social Links Icons
 # Icon Mapping:
@@ -223,6 +236,7 @@ social:
 social_icons:
   enable: true
   # Icon Mappings.
+
   #KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
@@ -385,6 +399,31 @@ disqus:
   # count need to be false when hide is true
   hide: false
 
+# <wildfire>
+wildfire:
+  enable: false
+  # version - It's recommended to use the following versions.
+  loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
+  useDev: true
+  version: 0.5.6 
+  # database config
+  databaseProvider: firebase # or wilddog
+  firebase: # your firebase config goes here ↓
+    apiKey: 
+    authDomain:
+    databaseURL:
+    projectId:
+    storageBucket:
+    messagingSenderId:
+  wilddog: # your wilddog config goes here ↓
+    siteId:
+  # other configs
+  theme: light # or dark
+  locale: en # or other locales, e.g. zh-CN
+  defaultAvatarURL: 
+# Any question? 
+# Raise an issue here: https://github.com/cheng-kang/wildfire/issues
+# </wildfire>
 # Hypercomments
 #hypercomments_id:
 
@@ -404,6 +443,16 @@ changyan:
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 #livere_uid: your uid
+
+
+# Support for gitalk comments system.
+gitalk:
+  enable: false
+  clientID: # 54730ddf7b9420460c03
+  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+  repo: # colingpt.github.io
+  owner: # colingpt
+  admin: # colingpt
 
 # Baidu Share
 # Available value:
@@ -490,6 +539,7 @@ leancloud_visitors:
   app_id: mjWslD9FA2hpV7H3vqsBhhbu-gzGzoHsz #<app_id>
   app_key: DzIuBxvpckpEBjgBilvoWEFy #<app_key>
 
+
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
@@ -550,6 +600,7 @@ algolia_search:
 # Local search
 local_search:
   enable: true
+
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -696,7 +747,6 @@ vendors:
 css: assets/css
 js: assets/js
 images: assets/images
-
 reward_comment: 捧个场？
 wechatpay: /assets/images/wechat-reward-image.JPG
 alipay: /assets/images/alipay-reward-image.png

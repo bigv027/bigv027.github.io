@@ -120,7 +120,9 @@ $(document).ready(function () {
 
   $('.post-toc a').on('click', function (e) {
     e.preventDefault();
-    var targetSelector = NexT.utils.escapeSelector(this.getAttribute('href'));
+
+    var targetSelector = NexT.utils.escapeSelector(decodeURIComponent(this.getAttribute('href')));
+
     var offset = $(targetSelector).offset().top;
 
     hasVelocity ?

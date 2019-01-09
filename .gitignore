@@ -1,4 +1,13 @@
 
-*.html
+_site/*
+_theme_packages/*
 
-*.html
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+/vendor
+_data/languages/pt.yml
