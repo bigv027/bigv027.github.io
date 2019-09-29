@@ -11,3 +11,4 @@ Thumbs.db
 .rvmrc
 /vendor
 _data/languages/pt.yml
+*.json
