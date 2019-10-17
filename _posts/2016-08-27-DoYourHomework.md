@@ -44,7 +44,7 @@ categories:
 4. Make your idea worth sharing
 通过充分的准备，使其值得展示出来。(书中第三部分准备过程及第四部分舞台呈现)
 
-## do your homework
+## Do your homework
 
 第三部分讲到准备过程。思维上的升级点：
 
