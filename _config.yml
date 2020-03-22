@@ -743,9 +743,9 @@ vendors:
 
 
 # Assets
-# css: assets/css
-# js: assets/js
-# images: assets/images
+css: assets/css
+js: assets/js
+images: assets/images
 # reward_comment: 捧个场？
 # wechatpay: /assets/images/wechat-reward-image.JPG
 # alipay: /assets/images/alipay-reward-image.png
