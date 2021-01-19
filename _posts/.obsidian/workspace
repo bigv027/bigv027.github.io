@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "80940e6d4b216742",
+    "type": "split",
+    "children": [
+      {
+        "id": "bba50c1bcdfc9df1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2017-09-18-CardAsDailylog.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d804e4392eca9a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b507e2384a74d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2049f7517a96d7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63df890119086af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 448
+  },
+  "right": {
+    "id": "05f4dad37b3eef47",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6dafb03229c17cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4d564af9a63d16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2017-09-18-CardAsDailylog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2017-09-18-CardAsDailylog.md",
+    "2017-07-28-softwareImprovement.md",
+    "2017-11-02-PengYouQuan.md",
+    "2017-06-28-10hao10huai.md",
+    "2017-06-26-huanzai.md",
+    "2017-06-03-TimeManagement.md",
+    "2017-05-19-EverytingIsCard.md",
+    "2016-08-27-DoYourHomework.md",
+    "2016-06-20-woop.md"
+  ]
+}

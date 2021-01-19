@@ -16,7 +16,7 @@ layout: page
 **博客期许**：先写10年，保持每周一篇节奏。
 **year1day1**：2017-10-12 `heshengjun.com`域名第一天。
 
- [GitHub](https://github.com/bigv027) / [微博](http://weibo.com/heshengjun) / [豆瓣](https://www.douban.com/people/dasheng027/) / [email](mailto:2815966@qq.com)
+ [GitHub](https://github.com/bigv027) / [微博](https://weibo.com/heshengjun) / [豆瓣](https://www.douban.com/people/dasheng027/) / [email](mailto:2815966@qq.com)
 
 ## changelog
 
